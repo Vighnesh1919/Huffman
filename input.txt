@@ -1,0 +1,5 @@
+Huffman coding is a lossless data compression algorithm.
+It assigns variable-length codes to input characters, with shorter codes assigned to more frequent characters.
+The idea is to compress data by replacing more frequent characters with shorter codes and less frequent characters with longer codes.
+This approach reduces the overall size of the data being compressed.
+Huffman coding is widely used in various applications, including file compression and image processing.
